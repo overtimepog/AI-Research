@@ -1,9 +1,9 @@
 # Emergent Communication in Ultra-Constrained Language Models: Evidence for Optimal Efficiency at 1.4M Parameters
 
-**Authors**: AI Research Collective  
-**Institution**: Autonomous Research Laboratory  
-**Date**: January 2025  
-**Preprint**: arXiv:2025.XXXXX
+**Author**: Overtimepog  
+**Affiliation**: Independent Researcher  
+**Date**: September 2, 2025  
+**Contact**: github.com/overtimepog
 
 ## Abstract
 
@@ -13,7 +13,7 @@ We present empirical evidence that ultra-constrained language models (0.5M-1.5M 
 
 ## 1. Introduction
 
-The development of efficient communication protocols in multi-agent systems remains a fundamental challenge in artificial intelligence. Recent advances in large language models have primarily focused on scaling model size upward, with the assumption that increased capacity leads to improved performance across all tasks (Brown et al., 2020; Chowdhery et al., 2022). However, this scaling paradigm overlooks a critical question: **what is the minimal model size required for meaningful emergent communication, and could extreme constraints actually improve efficiency?**
+The development of efficient communication protocols in multi-agent systems remains a fundamental challenge in artificial intelligence. Recent advances in large language models have primarily focused on scaling model size upward, with the assumption that increased capacity leads to improved performance across all tasks [1, 2]. However, this scaling paradigm overlooks a critical question: **what is the minimal model size required for meaningful emergent communication, and could extreme constraints actually improve efficiency?**
 
 In this work, we challenge the "bigger is better" paradigm by systematically investigating emergent communication in ultra-constrained models ranging from 0.3M to 100M parameters. Our central hypothesis posits that information bottlenecks induced by extreme parameter constraints force models to develop more efficient, compositional communication protocols—a phenomenon we term "constraint-driven innovation."
 
@@ -31,15 +31,15 @@ Our primary contributions are:
 
 ### 2.1 Emergent Communication
 
-Previous research in emergent communication has predominantly focused on reinforcement learning approaches where agents develop communication protocols through interaction (Foerster et al., 2016; Lazaridou et al., 2017). These studies typically employ models in the 10M-100M parameter range, assuming sufficient capacity is necessary for meaningful communication emergence.
+Previous research in emergent communication has predominantly focused on reinforcement learning approaches where agents develop communication protocols through interaction [3, 4]. These studies typically employ models in the 10M-100M parameter range, assuming sufficient capacity is necessary for meaningful communication emergence.
 
 ### 2.2 Information Bottleneck Theory
 
-The information bottleneck principle (Tishby et al., 2000) suggests that optimal representations compress input information while preserving task-relevant features. We extend this principle to emergent communication, hypothesizing that parameter constraints create beneficial bottlenecks that force efficient vocabulary development.
+The information bottleneck principle [5] suggests that optimal representations compress input information while preserving task-relevant features. We extend this principle to emergent communication, hypothesizing that parameter constraints create beneficial bottlenecks that force efficient vocabulary development.
 
 ### 2.3 Efficient Attention Mechanisms
 
-Recent work on FLARE attention (arXiv:2508.12594) demonstrates linear-complexity alternatives to quadratic attention, enabling efficient scaling. We leverage FLARE's O(NM) complexity to maintain computational efficiency while testing our ultra-constrained hypothesis.
+Recent work on FLARE attention [6] demonstrates linear-complexity alternatives to quadratic attention, enabling efficient scaling. We leverage FLARE's O(NM) complexity to maintain computational efficiency while testing our ultra-constrained hypothesis.
 
 ## 3. Methodology
 
@@ -271,17 +271,25 @@ We thank the open-source community for FLARE attention implementation and the br
 
 ## References
 
-Brown, T., et al. (2020). Language Models are Few-Shot Learners. NeurIPS.
+[1] Brown, T., Mann, B., Ryder, N., et al. (2020). Language Models are Few-Shot Learners. *Advances in Neural Information Processing Systems*, 33, 1877-1901. Available at: https://papers.nips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html
 
-Chowdhery, A., et al. (2022). PaLM: Scaling Language Modeling with Pathways. arXiv.
+[2] Chowdhery, A., Narang, S., Devlin, J., et al. (2022). PaLM: Scaling Language Modeling with Pathways. *arXiv preprint arXiv:2204.02311*. Available at: https://arxiv.org/abs/2204.02311
 
-Foerster, J., et al. (2016). Learning to Communicate with Deep Multi-Agent Reinforcement Learning. NeurIPS.
+[3] Foerster, J., Assael, Y. M., de Freitas, N., & Whiteson, S. (2016). Learning to Communicate with Deep Multi-Agent Reinforcement Learning. *Advances in Neural Information Processing Systems*, 29. Available at: https://arxiv.org/abs/1605.06676
 
-Lazaridou, A., et al. (2017). Multi-Agent Cooperation and the Emergence of Natural Language. ICLR.
+[4] Lazaridou, A., Peysakhovich, A., & Baroni, M. (2017). Multi-Agent Cooperation and the Emergence of (Natural) Language. *International Conference on Learning Representations*. Available at: https://arxiv.org/abs/1612.07182
 
-Tishby, N., et al. (2000). The Information Bottleneck Method. arXiv.
+[5] Tishby, N., Pereira, F. C., & Bialek, W. (2000). The Information Bottleneck Method. *arXiv preprint physics/0004057*. Available at: https://arxiv.org/abs/physics/0004057
 
-[FLARE] (2024). Fast Low-rank Attention Routing Engine. arXiv:2508.12594.
+[6] Puri, V., Katznelson, G., Meisburger, N., Vashisht, N., & Sheng, Y. (2024). Fast Low-Rank Attention for Transformers. *arXiv preprint arXiv:2508.12594*. Available at: https://arxiv.org/abs/2508.12594
+
+[7] Karten, S., Agrawal, H., Gari, D., et al. (2024). MAC: A Modular Architecture for Multi-Agent Emergent Communication. *GitHub Repository*. Available at: https://github.com/sethkarten/MAC
+
+[8] Vermashresth. (2024). Awesome Emergent Languages: Neural Emergent Communication Research. *GitHub Repository*. Available at: https://github.com/vermashresth/awesome-emergent-languages
+
+[9] Lab, C. R. (2024). MAGIC: Multi-Agent Graph-Attention Communication. *GitHub Repository*. Available at: https://github.com/CORE-Robotics-Lab/MAGIC
+
+[10] Orzan, N. (2024). MARL-emecom: Multi-Agent Reinforcement Learning with Emergent Communication. *GitHub Repository*. Available at: https://github.com/nicoleorzan/marl-emecom
 
 ## Appendix A: Experimental Details
 
@@ -355,6 +363,6 @@ Strong positive correlation between efficiency, compositionality, and stability.
 
 ---
 
-*Corresponding Author: research@ai-lab.org*  
-*Data Availability: github.com/ai-research/tiny-agent-comm*  
-*Preprint: January 2025*
+*Author: Overtimepog*  
+*GitHub: github.com/overtimepog/AI-Research*  
+*Date: September 2, 2025*
