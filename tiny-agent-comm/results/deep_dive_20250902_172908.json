@@ -1,0 +1,194 @@
+{
+  "results": [
+    {
+      "size_m": 0.3,
+      "size": 300000,
+      "bottleneck": 0.8583828936614122,
+      "efficiency": 0.95,
+      "convergence": 91,
+      "compositionality": 0.7429592107558768,
+      "score": 0.6505918421511754
+    },
+    {
+      "size_m": 0.4,
+      "size": 400000,
+      "bottleneck": 0.805568514728836,
+      "efficiency": 0.95,
+      "convergence": 95,
+      "compositionality": 0.7696616862589154,
+      "score": 0.6439323372517831
+    },
+    {
+      "size_m": 0.5,
+      "size": 500000,
+      "bottleneck": 0.7955642309147821,
+      "efficiency": 0.95,
+      "convergence": 99,
+      "compositionality": 0.7058482424304527,
+      "score": 0.6191696484860906
+    },
+    {
+      "size_m": 0.6,
+      "size": 600000,
+      "bottleneck": 0.8448179494876695,
+      "efficiency": 0.95,
+      "convergence": 100,
+      "compositionality": 0.6820838076907161,
+      "score": 0.6114167615381432
+    },
+    {
+      "size_m": 0.7,
+      "size": 700000,
+      "bottleneck": 0.7801926420194664,
+      "efficiency": 0.95,
+      "convergence": 97,
+      "compositionality": 0.7352041520051347,
+      "score": 0.6310408304010269
+    },
+    {
+      "size_m": 0.75,
+      "size": 750000,
+      "bottleneck": 0.9138099923878598,
+      "efficiency": 0.95,
+      "convergence": 91,
+      "compositionality": 0.7479335081576487,
+      "score": 0.6515867016315298
+    },
+    {
+      "size_m": 0.8,
+      "size": 800000,
+      "bottleneck": 0.8111176091680041,
+      "efficiency": 0.9469848865214869,
+      "convergence": 88,
+      "compositionality": 0.8083198668526396,
+      "score": 0.6711564166312715
+    },
+    {
+      "size_m": 0.85,
+      "size": 850000,
+      "bottleneck": 0.910850214157052,
+      "efficiency": 0.95,
+      "convergence": 99,
+      "compositionality": 0.817922623011659,
+      "score": 0.6415845246023317
+    },
+    {
+      "size_m": 0.9,
+      "size": 900000,
+      "bottleneck": 0.9184524327599204,
+      "efficiency": 0.95,
+      "convergence": 83,
+      "compositionality": 0.7897716816843359,
+      "score": 0.6839543363368672
+    },
+    {
+      "size_m": 0.95,
+      "size": 950000,
+      "bottleneck": 0.8458830022135368,
+      "efficiency": 0.9117014576451168,
+      "convergence": 93,
+      "compositionality": 0.7542657562059492,
+      "score": 0.6277038800637482
+    },
+    {
+      "size_m": 1.0,
+      "size": 1000000,
+      "bottleneck": 0.847736413947474,
+      "efficiency": 0.9252601781784582,
+      "convergence": 93,
+      "compositionality": 0.7746129334214236,
+      "score": 0.6385526757735138
+    },
+    {
+      "size_m": 1.1,
+      "size": 1100000,
+      "bottleneck": 0.7564909002879302,
+      "efficiency": 0.9466411392050321,
+      "convergence": 88,
+      "compositionality": 0.7693858610829292,
+      "score": 0.6631977418191018
+    },
+    {
+      "size_m": 1.2,
+      "size": 1200000,
+      "bottleneck": 0.8938255374684236,
+      "efficiency": 0.95,
+      "convergence": 88,
+      "compositionality": 0.7648397188488958,
+      "score": 0.6639679437697792
+    },
+    {
+      "size_m": 1.3,
+      "size": 1300000,
+      "bottleneck": 0.8881551171034904,
+      "efficiency": 0.9303397886882294,
+      "convergence": 91,
+      "compositionality": 0.8395690739833951,
+      "score": 0.6600837091407937
+    },
+    {
+      "size_m": 1.4,
+      "size": 1400000,
+      "bottleneck": 0.8818258867765416,
+      "efficiency": 0.95,
+      "convergence": 78,
+      "compositionality": 0.8680348634288008,
+      "score": 0.7146069726857601
+    },
+    {
+      "size_m": 1.5,
+      "size": 1500000,
+      "bottleneck": 0.9145816447982664,
+      "efficiency": 0.95,
+      "convergence": 86,
+      "compositionality": 0.8124919770240935,
+      "score": 0.6794983954048187
+    },
+    {
+      "size_m": 1.75,
+      "size": 1750000,
+      "bottleneck": 0.8505466327420313,
+      "efficiency": 0.9441855210062999,
+      "convergence": 74,
+      "compositionality": 0.7456869861361125,
+      "score": 0.6992301577303724
+    },
+    {
+      "size_m": 2.0,
+      "size": 2000000,
+      "bottleneck": 0.7660457258076695,
+      "efficiency": 0.8981732165733294,
+      "convergence": 79,
+      "compositionality": 0.641855427284352,
+      "score": 0.640457693743535
+    },
+    {
+      "size_m": 2.5,
+      "size": 2500000,
+      "bottleneck": 0.8066422996973589,
+      "efficiency": 0.8854561500005963,
+      "convergence": 71,
+      "compositionality": 0.8220162357068972,
+      "score": 0.6941313221416776
+    },
+    {
+      "size_m": 3.0,
+      "size": 3000000,
+      "bottleneck": 0.8125820344040692,
+      "efficiency": 0.824807565331805,
+      "convergence": 59,
+      "compositionality": 0.7284984325274416,
+      "score": 0.6811034691713909
+    }
+  ],
+  "best_config": {
+    "size_m": 1.4,
+    "size": 1400000,
+    "bottleneck": 0.8818258867765416,
+    "efficiency": 0.95,
+    "convergence": 78,
+    "compositionality": 0.8680348634288008,
+    "score": 0.7146069726857601
+  },
+  "timestamp": "2025-09-02T17:29:08.236449"
+}

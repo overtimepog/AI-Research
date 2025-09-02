@@ -1,0 +1,16 @@
+{
+  "figures": [
+    "vocabulary_efficiency.png",
+    "convergence_dynamics.png",
+    "bottleneck_analysis.png",
+    "comprehensive_comparison.png",
+    "reproducibility.png",
+    "correlation_heatmap.png"
+  ],
+  "formats": [
+    "png",
+    "pdf"
+  ],
+  "dpi": 300,
+  "style": "publication-ready"
+}

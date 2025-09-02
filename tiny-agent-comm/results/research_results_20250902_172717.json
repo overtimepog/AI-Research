@@ -1,0 +1,196 @@
+{
+  "experiments": [
+    {
+      "config_name": "Ultra-Tiny-A (1M)",
+      "model_size": 1000000,
+      "bottleneck_ratio": 0.8,
+      "convergence_speed": 100,
+      "vocabulary_efficiency": 0.8534516981360781,
+      "compositionality": 0.7937377874707363,
+      "comm_success_rate": 0.7003658171735513,
+      "stability": 0.8423396050736279,
+      "iteration": 0
+    },
+    {
+      "config_name": "Ultra-Tiny-B (5M)",
+      "model_size": 5000000,
+      "bottleneck_ratio": 0.7,
+      "convergence_speed": 52,
+      "vocabulary_efficiency": 0.6821771886389053,
+      "compositionality": 0.7978198692721097,
+      "comm_success_rate": 0.8854564980336577,
+      "stability": 0.8495959583231552,
+      "iteration": 1
+    },
+    {
+      "config_name": "Tiny-A (10M)",
+      "model_size": 10000000,
+      "bottleneck_ratio": 0.6,
+      "convergence_speed": 46,
+      "vocabulary_efficiency": 0.8284697171414444,
+      "compositionality": 0.6372858659872567,
+      "comm_success_rate": 0.7820724478584529,
+      "stability": 0.7159180227983367,
+      "iteration": 2
+    },
+    {
+      "config_name": "Tiny-B (25M)",
+      "model_size": 25000000,
+      "bottleneck_ratio": 0.5,
+      "convergence_speed": 42,
+      "vocabulary_efficiency": 0.7737832475698904,
+      "compositionality": 0.6725646110017116,
+      "comm_success_rate": 0.7628631789599144,
+      "stability": 0.7396250808944107,
+      "iteration": 3
+    },
+    {
+      "config_name": "Small (50M)",
+      "model_size": 50000000,
+      "bottleneck_ratio": 0.4,
+      "convergence_speed": 30,
+      "vocabulary_efficiency": 0.6658844534833522,
+      "compositionality": 0.6220160729213084,
+      "comm_success_rate": 0.6316062977842569,
+      "stability": 0.7857726455181584,
+      "iteration": 4
+    },
+    {
+      "config_name": "Standard (100M)",
+      "model_size": 100000000,
+      "bottleneck_ratio": 0.3,
+      "convergence_speed": 25,
+      "vocabulary_efficiency": 0.5458136103988058,
+      "compositionality": 0.4995476920879203,
+      "comm_success_rate": 0.6706604950680514,
+      "stability": 0.5174665053363512,
+      "iteration": 5
+    },
+    {
+      "config_name": "Refined-1 (4.6M)",
+      "model_size": 4619255,
+      "bottleneck_ratio": 0.6174643498687177,
+      "convergence_speed": 68,
+      "vocabulary_efficiency": 0.7322433838315678,
+      "compositionality": 0.6361985086917556,
+      "comm_success_rate": 0.7672509095954076,
+      "stability": 0.8166997067926859,
+      "iteration": 6
+    },
+    {
+      "config_name": "Refined-2 (4.0M)",
+      "model_size": 3954776,
+      "bottleneck_ratio": 0.8884216469453273,
+      "convergence_speed": 69,
+      "vocabulary_efficiency": 0.815233783078835,
+      "compositionality": 0.785308050995565,
+      "comm_success_rate": 0.833875056473739,
+      "stability": 0.808765542758521,
+      "iteration": 7
+    },
+    {
+      "config_name": "Refined-3 (1.4M)",
+      "model_size": 1446367,
+      "bottleneck_ratio": 0.6422422818437057,
+      "convergence_speed": 87,
+      "vocabulary_efficiency": 0.8262437919241163,
+      "compositionality": 0.581667379805924,
+      "comm_success_rate": 0.719546156704686,
+      "stability": 0.8023854098914552,
+      "iteration": 8
+    },
+    {
+      "config_name": "Refined-4 (9.1M)",
+      "model_size": 9115830,
+      "bottleneck_ratio": 0.6417398376741326,
+      "convergence_speed": 54,
+      "vocabulary_efficiency": 0.7408323220914659,
+      "compositionality": 0.6678662069915923,
+      "comm_success_rate": 0.6756134628674481,
+      "stability": 0.8648580309899644,
+      "iteration": 9
+    },
+    {
+      "config_name": "Extreme-Tiny (500K)",
+      "model_size": 500000,
+      "bottleneck_ratio": 0.9,
+      "convergence_speed": 100,
+      "vocabulary_efficiency": 0.8698784390737586,
+      "compositionality": 0.824535461129319,
+      "comm_success_rate": 0.7329107850317305,
+      "stability": 0.8258547742495148,
+      "iteration": 10
+    },
+    {
+      "config_name": "Extreme-Tiny (750K)",
+      "model_size": 750000,
+      "bottleneck_ratio": 0.85,
+      "convergence_speed": 100,
+      "vocabulary_efficiency": 0.8891464212113508,
+      "compositionality": 0.7711462714574512,
+      "comm_success_rate": 0.821711043056803,
+      "stability": 0.8813916746875409,
+      "iteration": 11
+    },
+    {
+      "config_name": "Extreme-Bottleneck",
+      "model_size": 2000000,
+      "bottleneck_ratio": 0.95,
+      "convergence_speed": 86,
+      "vocabulary_efficiency": 0.8084417997651256,
+      "compositionality": 0.7058399187624056,
+      "comm_success_rate": 0.762579086496054,
+      "stability": 0.7930272393166826,
+      "iteration": 12
+    },
+    {
+      "config_name": "Extreme-Minimal",
+      "model_size": 1500000,
+      "bottleneck_ratio": 0.92,
+      "convergence_speed": 89,
+      "vocabulary_efficiency": 0.8211402536267868,
+      "compositionality": 0.7613296328795673,
+      "comm_success_rate": 0.8004784083390826,
+      "stability": 0.8355708222329531,
+      "iteration": 13
+    },
+    {
+      "config_name": "Validation-1 (0.8M)",
+      "model_size": 847913,
+      "bottleneck_ratio": 0.8080684708523252,
+      "convergence_speed": 100,
+      "vocabulary_efficiency": 0.910718381866181,
+      "compositionality": 0.6769313782773653,
+      "comm_success_rate": 0.7325437968742042,
+      "stability": 0.8746912889200451,
+      "iteration": 14
+    },
+    {
+      "config_name": "Validation-2 (0.6M)",
+      "model_size": 607183,
+      "bottleneck_ratio": 0.8117708768171165,
+      "convergence_speed": 100,
+      "vocabulary_efficiency": 0.8329003672641138,
+      "compositionality": 0.7760702650310181,
+      "comm_success_rate": 0.723210114014293,
+      "stability": 0.8538475087633117,
+      "iteration": 15
+    },
+    {
+      "config_name": "Validation-3 (0.8M)",
+      "model_size": 815865,
+      "bottleneck_ratio": 0.8765973262645108,
+      "convergence_speed": 100,
+      "vocabulary_efficiency": 0.8107060399614201,
+      "compositionality": 0.800601243845461,
+      "comm_success_rate": 0.7976490725424326,
+      "stability": 0.8314134917670876,
+      "iteration": 16
+    }
+  ],
+  "discoveries": [
+    "CONFIRMED: Ultra-tiny models (0.768) outperform standard models (0.606) in vocabulary efficiency!",
+    "CONFIRMED: Ultra-tiny models (0.804) outperform standard models (0.606) in vocabulary efficiency!"
+  ],
+  "timestamp": "2025-09-02T17:27:17.146181"
+}
