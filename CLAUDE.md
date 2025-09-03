@@ -136,3 +136,5 @@ PRPs/
 ```
 
 Remember: This framework is about **one-pass implementation success through comprehensive context and validation**. Every PRP should contain the exact context for an AI agent to successfully implement working code in a single pass.
+
+Remember to always use python3.11, and the venv at /Users/overtime/Documents/GitHub/AI-Research/.venv for everything
