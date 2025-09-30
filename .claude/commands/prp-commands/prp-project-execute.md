@@ -191,10 +191,11 @@ Support different execution modes for various use cases:
 ```
 project-root/
 ├── PRPs/
-│   ├── project-[name].md                    # Master project PRP
-│   ├── stage-1-[name].md                   # Individual stage PRPs
-│   ├── stage-2-[name].md
-│   └── stage-N-[name].md
+|   └── [name]
+│        ├── project-[name].md                    # Master project PRP
+│        ├── stage-1-[name].md                   # Individual stage PRPs
+│        ├── stage-2-[name].md
+│        └── stage-N-[name].md
 ├── .prp-execution/
 │   └── project-[name]/
 │       ├── execution.log                   # Detailed execution log

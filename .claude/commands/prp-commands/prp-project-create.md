@@ -144,8 +144,7 @@ Follow these steps to execute this command:
 ## File Naming Convention
 
 - Master Project PRP: `PRPs/project-[project-name].md`
-- Stage PRPs: `PRPs/stage-[N]-[stage-name].md` (where N is execution order)
-- Project template used: `PRPs/templates/prp_project.md`
+- Stage PRPs: `PRPs/[project-name]/stage-[N]-[stage-name].md` (where N is execution order)
 
 ## Success Criteria
 
